@@ -30,7 +30,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="5.4297101"
-     inkscape:cx="62.342186"
+     inkscape:cx="61.881757"
      inkscape:cy="50.739357"
      inkscape:window-width="1368"
      inkscape:window-height="860"
@@ -72,7 +72,7 @@
      stroke-linejoin="bevel"
      stroke-width="0.704443"
      id="circle16"
-     style="fill:#000000;stroke:#000000;stroke-opacity:1"
+     style="fill:none;stroke:#000000;stroke-opacity:1"
      rx="2.0428815"
      ry="2.042892" />
   <g
@@ -82,23 +82,61 @@
      stroke-linejoin="bevel"
      stroke-width="2"
      id="g26"
-     style="fill:#000000"
+     style="fill:none"
      transform="matrix(0.28177675,0,0,0.2817782,0.95566291,0.5588055)">
     <path
        id="circle18"
        d="m 69.709999,50.067001 a 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 6,6 0 0 1 6,6 z"
-       style="fill:#000000;stroke:#000000;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-opacity:1" />
     <path
        id="circle20"
        d="m 61.990002,26.308001 a 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 6,6 0 0 1 6,6 z"
-       style="fill:#000000;stroke:#000000;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-opacity:1" />
     <path
        id="circle22"
        d="m 37.01,26.308001 a 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 6,6 0 0 1 6,6 z"
-       style="fill:#000000;stroke:#000000;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-opacity:1" />
     <path
        id="circle24"
        d="m 29.290001,50.067001 a 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 6,6 0 0 1 6,6 z"
-       style="fill:#000000;stroke:#000000;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-opacity:1" />
+  </g>
+  <ellipse
+     cx="13.205515"
+     cy="18.800066"
+     fill="#090"
+     stroke="#aaa"
+     stroke-linecap="round"
+     stroke-linejoin="bevel"
+     stroke-width="0.704443"
+     id="circle16-5"
+     style="fill:none;stroke:#000000;stroke-opacity:1"
+     rx="2.0428815"
+     ry="2.042892" />
+  <g
+     fill="#ff0"
+     stroke="#aaaaaa"
+     stroke-linecap="round"
+     stroke-linejoin="bevel"
+     stroke-width="2"
+     id="g26-5"
+     style="fill:none"
+     transform="matrix(0.28177675,0,0,0.2817782,0.94822,0.55492548)">
+    <path
+       id="circle18-0"
+       d="m 69.709999,50.067001 a 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 6,6 0 0 1 6,6 z"
+       style="fill:none;stroke:#000000;stroke-opacity:1" />
+    <path
+       id="circle20-1"
+       d="m 61.990002,26.308001 a 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 6,6 0 0 1 6,6 z"
+       style="fill:none;stroke:#000000;stroke-opacity:1" />
+    <path
+       id="circle22-2"
+       d="m 37.01,26.308001 a 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 6,6 0 0 1 6,6 z"
+       style="fill:none;stroke:#000000;stroke-opacity:1" />
+    <path
+       id="circle24-3"
+       d="m 29.290001,50.067001 a 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 6,6 0 0 1 6,6 z"
+       style="fill:none;stroke:#000000;stroke-opacity:1" />
   </g>
 </svg>
