@@ -1,0 +1,92 @@
+@font-face {
+  font-family: 'emob';
+  src:
+    url('fonts/emob.ttf?vpsrza') format('truetype'),
+    url('fonts/emob.woff?vpsrza') format('woff'),
+    url('fonts/emob.svg?vpsrza#emob') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.emob {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'emob' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.emob-combo-ccs1:before {
+  content: "\e903";
+}
+.emob-combo-ccs1-cable-attached:before {
+  content: "\e919";
+}
+.emob-iec603092-3p:before {
+  content: "\e900";
+}
+.emob-iec603092-2p:before {
+  content: "\e901";
+}
+.emob-bs1363:before {
+  content: "\e902";
+}
+.emob-combo-ccs2:before {
+  content: "\e92f";
+}
+.emob-combo-ccs2-cable-attached:before {
+  content: "\e930";
+}
+.emob-pantograph:before {
+  content: "\e931";
+}
+.emob-chademo-cable-attached:before {
+  content: "\e932";
+}
+.emob-chademo:before {
+  content: "\e933";
+}
+.emob-cee7:before {
+  content: "\e934";
+}
+.emob-type1:before {
+  content: "\e935";
+}
+.emob-type1-cable-attached:before {
+  content: "\e936";
+}
+.emob-tesla-s-cable-attached:before {
+  content: "\e938";
+}
+.emob-type2:before {
+  content: "\e939";
+}
+.emob-type2-cable-attached:before {
+  content: "\e93a";
+}
+.emob-type3c:before {
+  content: "\e93b";
+}
+.emob-wireless:before {
+  content: "\e93c";
+}
+.emob-ac-1:before {
+  content: "\e93d";
+}
+.emob-ac-3:before {
+  content: "\e93e";
+}
+.emob-ac:before {
+  content: "\e93f";
+}
+.emob-dc:before {
+  content: "\e940";
+}
