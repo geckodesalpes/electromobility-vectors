@@ -1,9 +1,8 @@
 @font-face {
-  font-family: 'emob';
-  src:
-    url('fonts/emob.ttf?vpsrza') format('truetype'),
-    url('fonts/emob.woff?vpsrza') format('woff'),
-    url('fonts/emob.svg?vpsrza#emob') format('svg');
+  font-family: "emob";
+  src: url("fonts/emob.ttf?vpsrza") format("truetype"),
+    url("fonts/emob.woff?vpsrza") format("woff"),
+    url("fonts/emob.svg?vpsrza#emob") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -11,7 +10,7 @@
 
 .emob {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'emob' !important;
+  font-family: "emob" !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
@@ -22,6 +21,69 @@
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.emob-2x {
+  font-size: 2em;
+}
+.emob-3x {
+  font-size: 3em;
+}
+.emob-4x {
+  font-size: 4em;
+}
+.emob-5x {
+  font-size: 5em;
+}
+.emob-6x {
+  font-size: 6em;
+}
+.emob-7x {
+  font-size: 7em;
+}
+.emob-8x {
+  font-size: 8em;
+}
+.emob-9x {
+  font-size: 9em;
+}
+.emob-10x {
+  font-size: 10em;
+}
+
+.emob-2xs {
+  font-size: 0.625em;
+  line-height: 0.1em;
+  vertical-align: 0.225em;
+}
+.emob-xs {
+  font-size: 0.75em;
+  line-height: 0.08333em;
+  vertical-align: 0.125em;
+}
+.emob-sm {
+  font-size: 0.875em;
+  line-height: 0.07143em;
+  vertical-align: 0.05357em;
+}
+.emob-lg {
+  font-size: 1.25em;
+  line-height: 0.05em;
+  vertical-align: -0.075em;
+}
+.emob-xl {
+  font-size: 1.5em;
+  line-height: 0.04167em;
+  vertical-align: -0.125em;
+}
+.emob-2xl {
+  font-size: 2em;
+  line-height: 0.03125em;
+  vertical-align: -0.1875em;
+}
+.emob-fw {
+  text-align: center;
+  width: 1.25em;
 }
 
 .emob-combo-ccs1:before {

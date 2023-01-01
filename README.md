@@ -3,6 +3,7 @@
 The idea behind this repo is to have a place gathering technically accurate vectors (icons, fonts, ...) on the theme of electromobility.
 
 # NPM Package
+Link: https://www.npmjs.com/package/electromobility-iconset  
 
 `npm i electromobility-iconset`
 
