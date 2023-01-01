@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100"
+   height="100"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="DC_Electric_Symbol.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.72"
+     inkscape:cx="27.648305"
+     inkscape:cy="35.063559"
+     inkscape:window-width="1368"
+     inkscape:window-height="860"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     id="rect3784"
+     style="stroke-width:0.5;fill:#000000"
+     d="m 0,38.146999 h 100 v 8 H 0 Z" />
+  <path
+     id="rect3781"
+     style="stroke-width:0.5;fill:#000000"
+     d="m 0,54.146999 h 20 v 8 H 0 Z" />
+  <path
+     id="rect3778"
+     style="stroke-width:0.5;fill:#000000"
+     d="m 40,54.146999 h 20 v 8 H 40 Z" />
+  <path
+     id="rect3775"
+     style="stroke-width:0.5;fill:#000000"
+     d="m 79.999992,54.146999 h 20 v 8 h -20 z" />
+</svg>

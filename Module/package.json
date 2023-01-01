@@ -1,0 +1,34 @@
+{
+  "name": "electromobility-iconset",
+  "version": "0.1.0",
+  "description": "A set of icons related to the electromobility domain, such as connectors, sockets, ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geckodesalpes/electromobility-vectors.git"
+  },
+  "keywords": [
+    "ev",
+    "electromobility",
+    "emob",
+    "icons",
+    "connector",
+    "connectors",
+    "type1",
+    "type2",
+    "chademo",
+    "ccs",
+    "ccs1",
+    "ccs2",
+    "type3"
+  ],
+  "author": "Geckodesalpes",
+  "license": "CC",
+  "bugs": {
+    "url": "https://github.com/geckodesalpes/electromobility-vectors/issues"
+  },
+  "homepage": "https://github.com/geckodesalpes/electromobility-vectors#readme"
+}
