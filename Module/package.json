@@ -1,6 +1,6 @@
 {
   "name": "electromobility-iconset",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A set of icons related to the electromobility domain, such as connectors, sockets, ...",
   "main": "index.js",
   "scripts": {
